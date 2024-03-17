@@ -1,0 +1,19 @@
+{
+    "name": "Sravani Ramini",
+    "DOB": "123456",
+    "address": [
+        {
+            "addressline1": "ECIL",
+            "Street": "Radhika",
+            "city": "Hyderabad",
+            "Type": "home"
+        },
+        {
+            "addressline1": "Bonguluru",
+            "Street": "Adhibatla",
+            "city": "Hyderabad",
+            "Type": "office"
+        }
+    ]
+
+}
